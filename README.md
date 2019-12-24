@@ -21,7 +21,7 @@ Actually, send deauthentication frame is a normal functionality on all routers, 
 
 4. mac_address.csv
 
-    the *mac_address.csv* contains OUIs and corresponds company names. first column is OUI and second column is Company.
+    the *mac_address.csv* contains OUI(Orgnazition Unique identifier)s and corresponds company names. first column is OUI and second column is Company.
     
     format:
     ```
