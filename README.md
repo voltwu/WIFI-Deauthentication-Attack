@@ -1,3 +1,7 @@
+[![GitHub issues](https://img.shields.io/github/issues/voltwu/WIFI-Deauthentication-Attack.svg)](https://github.com/voltwu/WIFI-Deauthentication-Attack/issues)
+[![GitHub forks](https://img.shields.io/github/forks/voltwu/WIFI-Deauthentication-Attack.svg)](https://github.com/voltwu/WIFI-Deauthentication-Attack/network)
+[![GitHub stars](https://img.shields.io/github/stars/voltwu/WIFI-Deauthentication-Attack.svg)](https://github.com/voltwu/WIFI-Deauthentication-Attack/stargazers)
+
 # Introduction
 Wifi deauthentication attack allows attackers to send frames from an access point to a station,even though the attack is not in the network.
 
