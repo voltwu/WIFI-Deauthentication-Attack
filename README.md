@@ -156,10 +156,14 @@ This project completely builds on `aircrack-ng` package. below is core steps how
 1. download deauth
 
     ```
-    su apt-get wget 
+    su apt-get wget https://codeload.github.com/voltwu/WIFI-Deauthentication-Attack/zip/master
+    ```
+2. unzip it
+    ```
+    unzip WIFI-Deauthentication-Attack-master.zip
     ```
     
-2. run it with python3.x
+3. run it with python3.x
 
     ```
     python3 deauth.py
