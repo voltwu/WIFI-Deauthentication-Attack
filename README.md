@@ -7,6 +7,9 @@ Wifi deauthentication attack allows attackers to send frames from an access poin
 
 Actually, send deauthentication frame is a normal functionality on all routers, almost all routers need to send special frames to inform rogue station to get out of network.
 
+# Environment
+Operation System: Kali Linux
+
 # Requirement
 1. aircrack-ng
     ```
